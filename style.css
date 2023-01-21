@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,500;0,600;0,700;1,400&display=swap');
+
+*{
+    margin: 0;
+    padding:0;
+}
+.container{
+    background: #E5E5E5;
+}
+.gallery{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 77px;
+
+color: #000000;
+
+
+position: absolute;
+width: 600px;
+height: 94px;
+left: 59px;
+top: 56px;
+
+
+}
+.row{
+    height:789px
+}
+.column{
+    width:634px;
+    height: 560px;
+display :flex;
+
+}
+.column-1{
+    display: flex;
+}
+
+a{
+    text-align: center;
+}
